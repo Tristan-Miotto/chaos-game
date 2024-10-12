@@ -35,7 +35,7 @@ In this Notebook, we can see how to get the Barnsley fern.
 
 ### 4 –  A *fern_animation.ipynb* Jupyter Notebook 🌿▶️
 
-This Notebook creates and locally saves an animation of the Barnsley fern, in an MP4 format.   
+This Notebook creates and locally saves an animation of the Barnsley fern, in MP4 format.   
 
 ## 📌 Note
 
